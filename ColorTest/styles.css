@@ -1,0 +1,4 @@
+body {
+	background: @col-pri-lum-1;
+	color: @col-pri-lum-4;
+}
